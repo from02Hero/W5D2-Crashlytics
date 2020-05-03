@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">W5D2-Crashlytics</string>
+    <string name="crash">Crash</string>
+    <string name="non_fatal">Non fatal</string>
+    <string name="user_id">User id</string>
+    <string name="custom_message">custom message</string>
+    <string name="custom_keys">custom keys</string>
+</resources>

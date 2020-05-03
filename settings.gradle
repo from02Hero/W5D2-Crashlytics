@@ -1,0 +1,2 @@
+rootProject.name='W5D2-Crashlytics'
+include ':app'
